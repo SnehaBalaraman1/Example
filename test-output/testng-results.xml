@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T01:13:09 IST" name="Suite" finished-at="2023-07-12T01:13:19 IST" duration-ms="10111">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T01:13:09 IST" name="Test" finished-at="2023-07-12T01:13:19 IST" duration-ms="10111">
+      <class name="test.CreateApage_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CreateApage_test@35841320]" started-at="2023-07-12T01:13:13 IST" name="setup" finished-at="2023-07-12T01:13:16 IST" duration-ms="2595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testing()[pri:0, instance:test.CreateApage_test@35841320]" started-at="2023-07-12T01:13:16 IST" name="testing" finished-at="2023-07-12T01:13:19 IST" duration-ms="3505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- test.CreateApage_test -->
+      <class name="test.Fblogin_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Fblogin_test@792b749c]" started-at="2023-07-12T01:13:09 IST" name="setup" finished-at="2023-07-12T01:13:13 IST" duration-ms="3777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testlogin()[pri:0, instance:test.Fblogin_test@792b749c]" started-at="2023-07-12T01:13:13 IST" name="testlogin" finished-at="2023-07-12T01:13:13 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- test.Fblogin_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
